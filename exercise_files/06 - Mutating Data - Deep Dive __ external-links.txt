@@ -1,0 +1,9 @@
+
+002 Starting-Project
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/05-data-mutation/01-starting-project.zip
+
+012 cloudinary.js
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/code/05-data-mutation/06-image-upload/lib/cloudinary.js
+
+014 More-about-revalidatePath-
+https://nextjs.org/docs/app/api-reference/functions/revalidatePath

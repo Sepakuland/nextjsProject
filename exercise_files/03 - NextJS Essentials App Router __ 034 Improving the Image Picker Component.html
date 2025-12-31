@@ -1,0 +1,13 @@
+<p>There are two improvements you could /&nbsp;should make to that "Image Picker"&nbsp;component:</p><p>1) Reset the previewed image if no image was selected:</p><p>Add set <code>setPickedImage(null);</code> to the <code>if (!file)</code> block:</p><pre class="prettyprint linenums">if (!file) {
+  setPickedImage(null);
+  return;
+}</pre><p>2) Add the required prop to the (hidden) &lt;input&gt;&nbsp;element:</p><pre class="prettyprint linenums">&lt;input
+  className={classes.input}
+  type="file"
+  id={name}
+  accept="image/png, image/jpeg"
+  name={name}
+  ref={imageInput}
+  onChange={handleImageChange}
+  required
+/&gt;</pre><p>This ensures that the <code>&lt;form&gt;</code> can't be submitted without an image being selected.</p>

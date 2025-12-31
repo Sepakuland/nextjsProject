@@ -1,0 +1,6 @@
+
+002 Backend
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/04-data-fetching/backend.zip
+
+007 news.js
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/code/04-data-fetching/06-migrate-cmp-to-use-db/lib/news.js

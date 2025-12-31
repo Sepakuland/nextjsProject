@@ -1,0 +1,6 @@
+
+002 Caching-Documentation
+https://nextjs.org/docs/app/building-your-application/caching
+
+003 Starting-Project
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/06-caching/01-starting-project.zip

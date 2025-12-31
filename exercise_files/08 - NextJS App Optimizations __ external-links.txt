@@ -1,0 +1,6 @@
+
+001 Starting-Project
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/07-optimizations/01-starting-project.zip
+
+010 metadata-Documentation
+https://nextjs.org/docs/app/building-your-application/optimizing/metadata

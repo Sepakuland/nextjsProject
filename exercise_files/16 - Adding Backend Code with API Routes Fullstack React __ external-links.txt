@@ -1,0 +1,9 @@
+
+003 Starting-Project
+https://github.com/mschwarzmueller/nextjs-course-code/tree/07-api-routes-starting-project
+
+004 How-Not-To-Connect-SPAs-To-Databases
+https://academind.com/tutorials/connect-to-database/
+
+009 Understanding-bind-
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind

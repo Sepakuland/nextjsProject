@@ -1,0 +1,35 @@
+<p>Currently, this project has a small bug / issue - the root HTML&nbsp;document is re-defined for every route. The fix is to&nbsp; define the base HTML document only once in a <code>layout.js</code> file inside the root folder path.</p><p>Create an <code><strong>app/layout.js</strong></code> file with the following content:</p><pre class="prettyprint linenums">import './globals.css';
+
+export const metadata = {
+  title: 'Next.js Page Routing &amp; Rendering',
+  description: 'Learn how to route to different pages.',
+};
+
+export default function RootLayout({ children }) {
+  return (
+    &lt;html lang="en"&gt;
+      &lt;body&gt;{children}&lt;/body&gt;
+    &lt;/html&gt;
+  );
+}</pre><p>When following along with the <strong>next lecture</strong>, you'll also need to tweak the <code><strong>app/(content)/layout.js</strong></code> and <code><strong>app/(marketing)/layout.js</strong></code> files (which are created in the next lecture).</p><p><code><strong>app/(content)/layout.js</strong></code></p><p><em>(created in next lecture, adjust it after watching the next lecture)</em></p><pre class="prettyprint linenums">import MainHeader from '@/components/main-header';
+ 
+export const metadata = {
+  title: 'Next.js Page Routing &amp; Rendering',
+  description: 'Learn how to route to different pages.',
+};
+ 
+export default function ContentLayout({ children }) {
+  return (
+    &lt;div id='page'&gt;
+      &lt;MainHeader /&gt;
+      {children}
+    &lt;/div&gt;
+  );
+}</pre><p><code><strong>app/(marketing)/layout.js</strong></code></p><p><em>(created in next lecture, adjust it after watching the next lecture)</em></p><pre class="prettyprint linenums">export const metadata = {
+  title: 'Next.js Page Routing &amp; Rendering',
+  description: 'Learn how to route to different pages.',
+};
+ 
+export default function MarketingLayout({ children }) {
+  return &lt;main&gt;{children}&lt;/main&gt;;
+}</pre>

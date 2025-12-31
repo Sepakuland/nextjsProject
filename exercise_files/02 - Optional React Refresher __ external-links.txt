@@ -1,0 +1,84 @@
+
+005 Starting-Project-Local-
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/starting-project.zip
+
+005 Starting-Project-CodeSandbox-
+https://codesandbox.io/p/sandbox/react-summary-start-z6px8f
+
+012 Post.module.css
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/Post.module.css
+
+013 PostsList.module.css
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/PostsList.module.css
+
+014 NewPost.jsx
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/NewPost.jsx
+
+014 NewPost.module.css
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/NewPost.module.css
+
+018 Modal.module.css
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/Modal.module.css
+
+020 MainHeader.jsx
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/MainHeader.jsx
+
+020 MainHeader.module.css
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/MainHeader.module.css
+
+025 Dummy-Backend
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/dummy-backend.zip
+
+033 Updated-NewPost.module.css
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/code/18-links-navigation/src/routes/NewPost.module.css
+
+036 PostDetails.jsx
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/PostDetails.jsx
+
+036 PostDetails.module.css
+https://github.com/academind/react-complete-guide-code/blob/zz-reactjs-summary-updated/extra-files/PostDetails.module.css
+
+041 Vanilla-JavaScript-vs-React-Comparison-Project
+https://github.com/mschwarzmueller/nextjs-course-code/blob/zz-react-summary-extra-files/react-vs-vanilla-js-example.zip
+
+043 React-vs-Angular-vs-Vue-Comparison
+https://academind.com/tutorials/angular-vs-react-vs-vue-my-thoughts/
+
+047 Starting-Project
+https://github.com/mschwarzmueller/nextjs-course-code/tree/cbb583666a1d032852b41d3bf05bf8f386ae1e6b
+
+049 index.css-File
+https://github.com/mschwarzmueller/nextjs-course-code/blob/c34af820285af1e7bfb3d0a0327168b5440125f6/src/index.css
+
+054 What-is-State-
+https://academind.com/tutorials/what-is-state/
+
+057 Updated-Started-Project
+https://github.com/mschwarzmueller/nextjs-course-code/tree/f09d94f9a61700bc544a90edb53bdaaf3c4c7f8a
+
+059 Style-Files
+https://github.com/mschwarzmueller/nextjs-course-code/tree/zz-react-summary-extra-files/styles
+
+060 Dummy-Data
+https://github.com/mschwarzmueller/nextjs-course-code/blob/zz-react-summary-extra-files/data/dummy-data.js
+
+061 Style-Files
+https://github.com/mschwarzmueller/nextjs-course-code/tree/zz-react-summary-extra-files/styles
+
+062 Style-Files
+https://github.com/mschwarzmueller/nextjs-course-code/tree/zz-react-summary-extra-files/styles
+
+063 Style-Files
+https://github.com/mschwarzmueller/nextjs-course-code/tree/zz-react-summary-extra-files/styles
+
+063 Uploading-Images-with-React
+https://academind.com/tutorials/reactjs-image-upload/
+
+064 Tutorial-Build-a-REST-API
+https://academind.com/tutorials/building-a-restful-api-with-nodejs/
+
+064 Tutorial-How-To-Connect-SPAs-to-Databases
+https://academind.com/tutorials/connect-to-database/
+
+065 How-Not-To-Connect-SPAs-To-A-Database
+https://academind.com/tutorials/connect-to-database/

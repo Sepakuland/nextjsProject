@@ -1,0 +1,6 @@
+
+004 Latest-Project-Snapshot
+https://github.com/mschwarzmueller/nextjs-course-code/tree/10-prj-blog
+
+009 Next-Export-Starting-Project
+https://github.com/mschwarzmueller/nextjs-course-code/tree/11-deployment-static

@@ -1,0 +1,78 @@
+
+002 Starting-Project-Local-
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/01-getting-started/starting-project.zip
+
+002 Starting-Project-CodeSandbox-
+https://codesandbox.io/p/devbox/nextjs-basic-app-k2yfy7
+
+007 Organizing-NextJS-Projects
+https://nextjs.org/docs/app/building-your-application/routing/colocation
+
+010 Starting-Project-Local-
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/foodies-starting-project.zip
+
+010 Starting-Project-CodeSandbox-
+https://codesandbox.io/p/devbox/meals-app-starting-project-8vjnw3
+
+015 main-header.module.css
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/components/main-header/main-header.module.css
+
+016 More-on-the-Image-Component
+https://nextjs.org/docs/app/api-reference/components/image
+
+018 page.module.css
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/app/page.module.css
+
+018 page.js
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/app/page.js
+
+019 image-slideshow.js
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/components/images/image-slideshow.js
+
+019 image-slideshow.module.css
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/components/images/image-slideshow.module.css
+
+021 page.js
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/app/community/page.js
+
+021 page.module.css
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/app/community/page.module.css
+
+022 page.module.css
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/app/meals/page.module.css
+
+022 meals-grid.module.css
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/components/meals/meals-grid.module.css
+
+022 meal-item.module.css
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/components/meals/meal-item.module.css
+
+022 meal-item.js
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/components/meals/meal-item.js
+
+023 initdb.js
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/initdb.js
+
+025 loading.module.css
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/app/meals/loading.module.css
+
+029 page.module.css
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/app/meals/%5BmealSlug%5D/page.module.css
+
+031 page.js
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/app/meals/share/page.js
+
+031 page.module.css
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/app/meals/share/page.module.css
+
+032 image-picker.module.css
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/lecture-specific/components/meals/image-picker.module.css
+
+046 Finished-Project
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/02-nextjs-essentials/s3-file-storage.zip
+
+046 Updated-initdb.js-File
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/code/02-nextjs-essentials/32-s3-file-storage/initdb.js
+
+047 Official-Metadata-Docs
+https://nextjs.org/docs/app/api-reference/functions/generate-metadata

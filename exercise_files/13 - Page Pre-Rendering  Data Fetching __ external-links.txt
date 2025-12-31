@@ -1,0 +1,12 @@
+
+005 Starting-Project
+https://github.com/mschwarzmueller/nextjs-course-code/tree/04-data-fetching-starting-project
+
+006 dummy-backend.json-File
+https://github.com/mschwarzmueller/nextjs-course-code/blob/04-data-fetching-extra-files/data/dummy-backend.json
+
+021 NodeJS-req-Documentation
+https://nodejs.org/api/http.html#http_class_http_incomingmessage
+
+021 NodeJS-res-Documentation
+https://nodejs.org/api/http.html#http_class_http_serverresponse

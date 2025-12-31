@@ -1,0 +1,18 @@
+
+002 Starting-Project
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/03-routing-rendering/01-starting-project.zip
+
+005 dummy-news.js
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/code/03-routing-rendering/04-not-found/dummy-news.js
+
+005 main-header.js
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/code/03-routing-rendering/04-not-found/components/main-header.js
+
+008 news.js
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/code/03-routing-rendering/06-default-page/lib/news.js
+
+020 page.js
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/code/03-routing-rendering/15-route-groups/app/(marketing)/page.js
+
+022 Middleware-Documentation
+https://nextjs.org/docs/app/building-your-application/routing/middleware

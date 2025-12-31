@@ -1,0 +1,6 @@
+
+002 Starting-Project
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/08-authentication/01-starting-project.zip
+
+005 hash.js
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/code/08-authentication/03-finished-signup/lib/hash.js

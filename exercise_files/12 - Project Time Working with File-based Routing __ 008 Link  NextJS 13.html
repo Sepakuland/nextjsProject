@@ -1,0 +1,15 @@
+<p>Up to NextJS 13, you needed to add a nested <code>&lt;a&gt;</code> element in your <code>&lt;Link&gt;</code>s if you wanted to add custom attributes (e.g., <code>className</code>) to the anchor element.</p><p>For example, the following code would be wrong (with NextJS &lt; v13):</p><pre class="prettyprint linenums">&lt;Link href="/" className="some-class"&gt;
+  Click me
+&lt;/Link&gt;</pre><p>Instead, you'd have to write this code:</p><pre class="prettyprint linenums">&lt;Link href="/"&gt;
+  &lt;a className="some-class"&gt;
+    Click me
+  &lt;/a&gt;
+&lt;/Link&gt;</pre><p>The same solution would be required if you wanted to nest any other elements inside your <code>&lt;Link&gt;</code>. You would need to wrap them into an extra (potentially empty) <code>&lt;a&gt;</code> element:</p><pre class="prettyprint linenums">&lt;Link href="/"&gt;
+  &lt;a&gt;
+    &lt;span&gt;Extra element&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/Link&gt;</pre><p>With NextJS 13 or higher, this is no longer needed, you can instead just write:</p><pre class="prettyprint linenums">&lt;Link href="/" className="some-class"&gt;
+  Click me
+&lt;/Link&gt;</pre><p>and</p><pre class="prettyprint linenums">&lt;Link href="/"&gt;
+  &lt;span&gt;Extra element&lt;/span&gt;
+&lt;/Link&gt;</pre><p><strong>The NextJS &lt; 13 behavior will be shown in the next lecture</strong>, since that lecture was recorded before the release of NextJS 13. </p><p>If you are watching this course with version 13 (check your <code>package.json</code> file to find out), you can <strong>ignore my solution</strong> and simplify as described above (i.e., without the extra <code>&lt;a&gt;</code>).</p>

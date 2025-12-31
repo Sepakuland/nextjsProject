@@ -1,0 +1,15 @@
+
+004 Starting-Project-CodeSandbox-
+https://codesandbox.io/p/devbox/nextjs-basic-app-k2yfy7
+
+004 Starting-Project-Local-
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources/blob/main/attachments/01-getting-started/starting-project.zip
+
+008 Course-Attachments-NextJS-Essentials-
+https://github.com/mschwarzmueller/nextjs-complete-guide-course-resources
+
+008 Course-Attachments-Rest-of-the-Course-
+https://github.com/mschwarzmueller/nextjs-course-code
+
+008 Course-Community
+https://academind.com/community

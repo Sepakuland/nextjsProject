@@ -1,0 +1,20 @@
+<p>In the previous lecture, we added the <code>(auth)</code> route group and an auth-only layout (by adding a <code>layout.js</code> file in that <code>(auth)</code> folder).</p><p>Currently, this <code>(auth)/layout.js</code> layout will actually <strong>not replace the main root layout</strong> (i.e., the layout provided by <code>app/layout.js</code>).</p><p>Because route group layouts are actually <strong>nested into the main root layout</strong> unless there is no such root layout. I.e., if you would create another route group (e.g., <code>(unauth)</code>) and move the <code>layout.js</code> file into that folder, you would end up with <strong>multiple root layouts</strong>.</p><p>Therefore, if you're not doing that, you should edit the <code>(auth)/layout.js</code> file and remove the <code>&lt;html&gt;</code> and <code>&lt;body&gt;</code> elements in there. The app will work either way but it's technically incorrect.</p><p>Instead, your <code>(auth)/layout.js</code> file should look like this:</p><pre class="prettyprint linenums">import '../globals.css';
+
+export const metadata = {
+  title: 'Next Auth',
+  description: 'Next.js Authentication',
+};
+
+export default function AuthRootLayout({ children }) {
+  return (
+    &lt;&gt;
+      &lt;header id="auth-header"&gt;
+        &lt;p&gt;Welcome back!&lt;/p&gt;
+        &lt;form&gt;
+          &lt;button&gt;Logout&lt;/button&gt;
+        &lt;/form&gt;
+      &lt;/header&gt;
+      {children}
+    &lt;/&gt;
+  );
+}</pre>

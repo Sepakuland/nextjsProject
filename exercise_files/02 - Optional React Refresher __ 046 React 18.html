@@ -1,0 +1,14 @@
+<p>This course section was recorded based on React 17. But it's also <strong>fully up-to-date with React 18</strong> (the latest version)!</p><p>There is <strong>one small difference in code</strong> which you'll note in the next video(s) though:</p><p>In <code>index.js</code>, instead of the code shown in the video: </p><pre class="prettyprint linenums">import React from 'react';
+import ReactDOM from 'react-dom';
+
+import './index.css';
+import App from './App';
+
+ReactDOM.render(&lt;App /&gt;, document.getElementById('root'));</pre><p>you'll face this kind of code (when creating a new React project):</p><pre class="prettyprint linenums">import React from 'react';
+import ReactDOM from 'react-dom/client';
+
+import './index.css';
+import App from './App';
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(&lt;App /&gt;);</pre><p>As you can tell, it's almost the same code. It also still does the same thing:&nbsp;Tell React where to render the root component (<code>&lt;App/&gt;</code>). Everything I&nbsp;explain in the next videos still is valid and works in exactly the same way with React 18. It's just a small syntax change that was introduced.</p><p>That's it though - all the other code you'll write and everything you'll learn is up-to-date with React 18, no changes are needed!&nbsp;You still build (functional) components, you still work with React Hooks - nothing about that changed.</p><p>If you want to learn more about React 18, I&nbsp;got an article with a video where I&nbsp;walk you through this latest version:&nbsp;<a href="https://academind.com/tutorials/react-18-update-guide" rel="noopener noreferrer" target="_blank">https://academind.com/tutorials/react-18-update-guide</a></p>
